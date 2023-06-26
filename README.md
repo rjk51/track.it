@@ -1,16 +1,17 @@
-# expense_tracker
+# Track.it
 
-A new Flutter project.
+An Expense tracker app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Go through the lib folder for the main files.
 
-A few resources to get you started if this is your first Flutter project:
+Navigate to the build folder to get the apk.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Current features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Add an expense.
+- Choose between different categories which meets your type of expense.
+- Remove the expense item when not needed or undo it if you removed it by mistake.
+- An expense chart which helps you to manage your expense in different categories.
+- Dark mode compatibility added.
